@@ -1,0 +1,2 @@
+Employee.png,320,180,5
+Coworker.png,320,180,2

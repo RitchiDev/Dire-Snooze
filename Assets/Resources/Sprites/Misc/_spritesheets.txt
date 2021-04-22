@@ -1,0 +1,3 @@
+Countdown.png,100,100,4
+Clock.png,32,32,13
+Zzz.png,32,32,4
